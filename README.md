@@ -7,11 +7,7 @@ Wanderlust is a web application that allows users to explore unique accommodatio
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
+
 
 ## Description
 
@@ -31,11 +27,3 @@ Wanderlust provides a platform for users to browse and list accommodations. User
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Map Integration**: Leaflet API
-
-## Installation Instructions
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wanderlust.git
